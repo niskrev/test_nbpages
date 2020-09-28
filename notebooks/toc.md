@@ -10,3 +10,7 @@
     - [ND Pyomo Cookbook](https://jckantor.github.io/ND-Pyomo-Cookbook/)
     - [nbpages](https://jckantor.github.io/nbpages/)
     - [Controlling Natural Watersheds](https://jckantor.github.io/Controlling-Natural-Watersheds/)
+
+### [1.1 Working with Data and Figures](http://nbviewer.jupyter.org/github/niskrev/test_nbpages/blob/master/notebooks/01.01-Working-with-Data-and-Figures.ipynb)
+- [Importing data](http://nbviewer.jupyter.org/github/niskrev/test_nbpages/blob/master/notebooks/01.01-Working-with-Data-and-Figures.ipynb#Importing-data)
+- [Creating and saving figures](http://nbviewer.jupyter.org/github/niskrev/test_nbpages/blob/master/notebooks/01.01-Working-with-Data-and-Figures.ipynb#Creating-and-saving-figures)

@@ -5,3 +5,4 @@
 ### [Table of Contents](http://nbviewer.jupyter.org/github/niskrev/test_nbpages/blob/master/notebooks/toc.ipynb?flush=true)
 
 ### [Chapter 1.0 Examples](http://nbviewer.jupyter.org/github/niskrev/test_nbpages/blob/master/notebooks/01.00-Examples.ipynb)
+- [1.1 Working with Data and Figures](http://nbviewer.jupyter.org/github/niskrev/test_nbpages/blob/master/notebooks/01.01-Working-with-Data-and-Figures.ipynb)
